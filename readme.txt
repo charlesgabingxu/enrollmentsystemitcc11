@@ -1,6 +1,3 @@
- VIDEO INSTRUCTION HOW THIS PROGRAM WORKS
-https://drive.google.com/drive/folders/1hJf1yjxtkUTz6U1LIBOYfEdGBMWR6cIe?usp=sharing
-
 TEXT INSTRUCTION
 
 Start your mySQL server, in my case, Go launch CMD with directory of MYSQL SERVER BIN
