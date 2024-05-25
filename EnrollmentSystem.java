@@ -27,7 +27,7 @@ public class EnrollmentSystem {
 
         public LoginWindow() {
             setTitle("Login");
-            setSize(300, 200);
+            setSize(600, 300);
             setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             setLocationRelativeTo(null);
 
@@ -91,7 +91,7 @@ public class EnrollmentSystem {
 
         public RegisterWindow() {
             setTitle("Register");
-            setSize(300, 200);
+            setSize(600, 300);
             setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             setLocationRelativeTo(null);
 
@@ -155,7 +155,7 @@ public class EnrollmentSystem {
         public MainWindow(int userId) {
             this.userId = userId;
             setTitle("Main Menu");
-            setSize(300, 200);
+            setSize(600, 300);
             setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             setLocationRelativeTo(null);
 
@@ -255,7 +255,7 @@ public class EnrollmentSystem {
         public EnrollWindow(int userId) {
             this.userId = userId;
             setTitle("Enroll");
-            setSize(400, 300);
+            setSize(600, 300);
             setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             setLocationRelativeTo(null);
 
